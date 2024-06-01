@@ -14,7 +14,7 @@ $ sudo apt-get install vnstat
 ### Usage:
 
 ```bash
-$ python bandwidth_py3.py xxx MiB/GiB &
+$ python bandwidth_monitor.py xxx MiB/GiB &
 ```
 The '&' has been added to run the process in background. If you want to stop the process at any time use :
 
