@@ -1,5 +1,5 @@
-# Network-Usage-Tracker
-A python script to keep a track of network usage and notify you if it exceeds a specified limit
+# Bandwidth Montor Using Python
+A python script to keep a track of badwidth and notify you if it exceeds a specified limit
 (only support for wifi right now)
 
 ### Requirements:
